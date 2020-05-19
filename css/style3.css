@@ -1,0 +1,51 @@
+@charset "UTF-8";
+.logo{
+	background-color: silver;
+	height: 117px;
+	width: 83%;
+	margin-top: 2%;
+	margin-right: 9%;
+	margin-left: 9%;
+	margin-bottom: 1%;
+}
+.box{
+	background-color: white;
+	width: 33%;
+	float: left;
+	margin-right: -6%;
+	margin-left: 9%;
+	margin-bottom: 1%;
+	height: 281px;
+	margin-top: 0%;
+}
+.box1{
+	background-color: silver;
+	width: 47%;
+	float: left;
+	margin-right: -6%;
+	margin-left: 9%;
+	margin-bottom: 1%;
+	height: 281px;
+	margin-top: 0%;
+}
+.box2{
+	background-color: silver;
+	width: 47%;
+	float: left;
+	margin-right: -6%;
+	margin-left: 45%;
+	margin-bottom: 1%;
+	height: 727px;
+	margin-top: 1%;
+}
+
+.footer{
+	background-color: silver;
+	width: 82%;
+	float: right;
+	margin-top: 1%;
+	margin-right: 8%;
+	margin-left: 5%;
+	margin-bottom: 1%;
+	height: 70px;
+}
